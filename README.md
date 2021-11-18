@@ -1,8 +1,15 @@
 # NAS
+<<<<<<< HEAD
 Easy setup for a NAS.<br>
 This will install the following:
 - OpenMediaVault
 - Plex
+=======
+ Easy setup for a NAS.<br>
+ This will install the following:
+ - OpenMediaVault
+ - Plex
+>>>>>>> f0fdbd7dde8b4231e6beba6023bd9b10a64f1922
 
 ## Notice
 These scripts are built around running Pi OS. They may work in other distributions but have ***only been tested for the Pi***.<br>
@@ -26,4 +33,8 @@ Once that script has completed running, we can clean up those files:
 1) `rm ~/OMV.sh`
 2) `rm ~/Plex.sh`
 
+<<<<<<< HEAD
 The services have now been installed & you can access them & configure them to your liking.
+=======
+The services have now been installed & you can access them & configure them to your liking.
+>>>>>>> f0fdbd7dde8b4231e6beba6023bd9b10a64f1922
