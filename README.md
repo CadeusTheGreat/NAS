@@ -4,11 +4,6 @@ This will install the following:
 - OpenMediaVault
 - Plex
 
- Easy setup for a NAS.<br>
- This will install the following:
- - OpenMediaVault
- - Plex
-
 ## Notice
 These scripts are built around running Pi OS. They may work in other distributions but have ***only been tested for the Pi***.<br>
 
